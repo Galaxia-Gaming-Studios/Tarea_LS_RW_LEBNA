@@ -7,8 +7,8 @@
 # Shortcuts
 |Task |Ingles|Español|
 |-----|------|-------|
-|LS   |[Here](https://github.com/Galaxia-Gaming-Studios/TareasLS_RW_LEBNA2024?tab=readme-ov-file#task-ls)|[Aqui](https://github.com/Galaxia-Gaming-Studios/TareasLS_RW_LEBNA2024?tab=readme-ov-file#tarea-ls)|
-|RW   |[Here](https://github.com/Galaxia-Gaming-Studios/TareasLS_RW_LEBNA2024?tab=readme-ov-file#task-rw)|[Aqui](https://github.com/Galaxia-Gaming-Studios/TareasLS_RW_LEBNA2024?tab=readme-ov-file#tarea-rw)|
+|LS   |[Here](https://github.com/Galaxia-Gaming-Studios/Tarea_LS_RW_LEBNA?tab=readme-ov-file#task-ls)|[Aqui](https://github.com/Galaxia-Gaming-Studios/Tarea_LS_RW_LEBNA?tab=readme-ov-file#tarea-ls)|
+|RW   |[Here](https://github.com/Galaxia-Gaming-Studios/Tarea_LS_RW_LEBNA?tab=readme-ov-file#task-rw)|[Aqui](https://github.com/Galaxia-Gaming-Studios/Tarea_LS_RW_LEBNA?tab=readme-ov-file#tarea-rw)|
 ---
 # Task **LS**
 ### 1. What is the video about?
@@ -59,14 +59,7 @@
 
 ---
 
-### ¡Hola Tareas de Jimmy!
-
----
-# Atajos
-|Tarea|Toque|
-|-----|-----|
-|LS   |[Aquí]()|
-|RW   |[Aquí]()|
+### ¡Hola Tareas de Jimmy En Español 
 ---
 # Tarea **LS**
 ### 1. ¿De qué trata el video?
