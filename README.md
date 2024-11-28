@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hola+Profe+;Mi+Tarea+Est%C3%A1+Lista;De+LS+y+RW;Esta+Subida+En+GitHud;%C2%A9%EF%B8%8FGlobal+GGs+%E2%9A%A1%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hola+Profe+;Mi+Tarea+Est%C3%A1+Lista;De+LS+y+RW;Esta+Subida+En+GitHud;%C2%A9%EF%B8%8FGlobal+GGS+%E2%9A%A1%F0%9F%8F%86)](https://git.io/typing-svg)
 
 
 ### Hello Jimmy's Tasks!
